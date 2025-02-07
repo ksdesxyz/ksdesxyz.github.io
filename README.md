@@ -11,9 +11,9 @@
   <body>
     <h1>Hello, this site has moved :)</h1>
 
-    <p>Come visit me at <a href="https://www.krsdesignlab.com/">krsdesignlab.com</a> — new website, same creativity!</p>
+    <h2>Come visit me at krsdesignlab.com — new website, same creativity!<h2>
 
-    <p> <strong>See you there! ⭐<strong></p>
+    <strong>See you there! ⭐<strong>
 
   </body>
 </html>
