@@ -1,19 +1,36 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-  </head>
-  <body>
+    <title>Site Moved</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        b {
+            display: block;
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
     <h1>Hello, this site has moved :)</h1>
-
-    Come visit me at krsdesignlab.com — new website, same creativity!
-
-    See you there! ⭐
-
-  </body>
+    <p>Come visit me at <a href="https://www.krsdesignlab.com/" target="_blank">krsdesignlab.com</a> — new website, same creativity!</p>
+    <b>See you there! ⭐</b>
+</body>
 </html>
